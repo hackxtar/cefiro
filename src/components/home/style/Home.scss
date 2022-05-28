@@ -1,0 +1,7 @@
+//constant colors scss import
+@import "../../../assets/style/constants";
+
+.navbar {
+  background-color: $white !important;
+  color: $black !important;
+}
